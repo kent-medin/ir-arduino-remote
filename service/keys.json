@@ -1,0 +1,1609 @@
+{
+    "lists": [
+        {
+            "name": "KEY_0",
+            "key": 11,
+            "remote": "F06100FF"
+        },
+        {
+            "name": "KEY_1",
+            "key": 2,
+            "remote": "F061807F"
+        },
+        {
+            "name": "KEY_2",
+            "key": 3,
+            "remote": "F06140BF"
+        },
+        {
+            "name": "KEY_3",
+            "key": 4,
+            "remote": "F061C03F"
+        },
+        {
+            "name": "KEY_4",
+            "key": 5,
+            "remote": "F06120DF"
+        },
+        {
+            "name": "KEY_5",
+            "key": 6,
+            "remote": "F061A05F"
+        },
+        {
+            "name": "KEY_6",
+            "key": 7,
+            "remote": "F061609F"
+        },
+        {
+            "name": "KEY_7",
+            "key": 8,
+            "remote": "F061E01F"
+        },
+        {
+            "name": "KEY_8",
+            "key": 9,
+            "remote": "F06110EF"
+        },
+        {
+            "name": "KEY_9",
+            "key": 10,
+            "remote": "F061906F"
+        },
+        {
+            "name": "KEY_A",
+            "key": 30,
+            "remote": ""
+        },
+        {
+            "name": "KEY_AUDIO",
+            "key": 392,
+            "remote": ""
+        },
+        {
+            "name": "KEY_AUDIO_DESC",
+            "key": 622,
+            "remote": ""
+        },
+        {
+            "name": "KEY_AUX",
+            "key": 390,
+            "remote": ""
+        },
+        {
+            "name": "KEY_B",
+            "key": 48,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BACK",
+            "key": 158,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BACKSLASH",
+            "key": 43,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BACKSPACE",
+            "key": 14,
+            "remote": "F06150AF"
+        },
+        {
+            "name": "KEY_BLUE",
+            "key": 401,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BREAK",
+            "key": 411,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BRIGHTNESSDOWN",
+            "key": 224,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BRIGHTNESSUP",
+            "key": 225,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BRIGHTNESS_AUTO",
+            "key": 244,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BRIGHTNESS_CYCLE",
+            "key": 243,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BRIGHTNESS_MAX",
+            "key": 593,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BRIGHTNESS_MIN",
+            "key": 592,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BRIGHTNESS_TOGGLE",
+            "key": 431,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BRIGHTNESS_ZERO",
+            "key": 244,
+            "remote": ""
+        },
+        {
+            "name": "KEY_BUTTONCONFIG",
+            "key": 576,
+            "remote": ""
+        },
+        {
+            "name": "KEY_C",
+            "key": 46,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CANCEL",
+            "key": 223,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CAPSLOCK",
+            "key": 58,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CD",
+            "key": 383,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CHANNEL",
+            "key": 363,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CHANNELDOWN",
+            "key": 403,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CHANNELUP",
+            "key": 402,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CLEAR",
+            "key": 355,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CLOSE",
+            "key": 206,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CNT",
+            "key": 768,
+            "remote": ""
+        },
+        {
+            "name": "KEY_COMMA",
+            "key": 51,
+            "remote": ""
+        },
+        {
+            "name": "KEY_COMPOSE",
+            "key": 127,
+            "remote": ""
+        },
+        {
+            "name": "KEY_COMPUTER",
+            "key": 157,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CONFIG",
+            "key": 171,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CONNECT",
+            "key": 218,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CONTEXT_MENU",
+            "key": 438,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CONTROLPANEL",
+            "key": 579,
+            "remote": ""
+        },
+        {
+            "name": "KEY_COPY",
+            "key": 133,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CUT",
+            "key": 137,
+            "remote": ""
+        },
+        {
+            "name": "KEY_CYCLEWINDOWS",
+            "key": 154,
+            "remote": ""
+        },
+        {
+            "name": "KEY_D",
+            "key": 32,
+            "remote": ""
+        },
+        {
+            "name": "KEY_DASHBOARD",
+            "key": 204,
+            "remote": ""
+        },
+        {
+            "name": "KEY_DATA",
+            "key": 631,
+            "remote": ""
+        },
+        {
+            "name": "KEY_DELETE",
+            "key": 111,
+            "remote": ""
+        },
+        {
+            "name": "KEY_DOT",
+            "key": 52,
+            "remote": ""
+        },
+        {
+            "name": "KEY_DOWN",
+            "key": 108,
+            "remote": "F06130CF"
+        },
+        {
+            "name": "KEY_DVD",
+            "key": 389,
+            "remote": ""
+        },
+        {
+            "name": "KEY_E",
+            "key": 18,
+            "remote": "F061F40B"
+        },
+        {
+            "name": "KEY_END",
+            "key": 107,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ENTER",
+            "key": 28,
+            "remote": "F061A857"
+        },
+        {
+            "name": "KEY_EPG",
+            "key": 365,
+            "remote": ""
+        },
+        {
+            "name": "KEY_EQUAL",
+            "key": 13,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ESC",
+            "key": 1,
+            "remote": ""
+        },
+        {
+            "name": "KEY_EXIT",
+            "key": 174,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F",
+            "key": 33,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F1",
+            "key": 59,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F10",
+            "key": 68,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F11",
+            "key": 87,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F12",
+            "key": 88,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F2",
+            "key": 60,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F3",
+            "key": 61,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F4",
+            "key": 62,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F5",
+            "key": 63,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F6",
+            "key": 64,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F7",
+            "key": 65,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F8",
+            "key": 66,
+            "remote": ""
+        },
+        {
+            "name": "KEY_F9",
+            "key": 67,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FASTFORWARD",
+            "key": 208,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FASTREVERSE",
+            "key": 629,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FAVORITES",
+            "key": 364,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FIND",
+            "key": 136,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FIRST",
+            "key": 404,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FORWARD",
+            "key": 159,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FRAMEBACK",
+            "key": 436,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FRAMEFORWARD",
+            "key": 437,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FRONT",
+            "key": 132,
+            "remote": ""
+        },
+        {
+            "name": "KEY_FULL_SCREEN",
+            "key": 372,
+            "remote": ""
+        },
+        {
+            "name": "KEY_G",
+            "key": 34,
+            "remote": ""
+        },
+        {
+            "name": "KEY_GOTO",
+            "key": 354,
+            "remote": ""
+        },
+        {
+            "name": "KEY_GREEN",
+            "key": 399,
+            "remote": ""
+        },
+        {
+            "name": "KEY_H",
+            "key": 35,
+            "remote": ""
+        },
+        {
+            "name": "KEY_HELP",
+            "key": 138,
+            "remote": ""
+        },
+        {
+            "name": "KEY_HOME",
+            "key": 102,
+            "remote": "F06128D7"
+        },
+        {
+            "name": "KEY_HOMEPAGE",
+            "key": 172,
+            "remote": ""
+        },
+        {
+            "name": "KEY_I",
+            "key": 23,
+            "remote": ""
+        },
+        {
+            "name": "KEY_IMAGES",
+            "key": 442,
+            "remote": ""
+        },
+        {
+            "name": "KEY_INFO",
+            "key": 358,
+            "remote": "F061C837"
+        },
+        {
+            "name": "KEY_INSERT",
+            "key": 110,
+            "remote": ""
+        },
+        {
+            "name": "KEY_INS_LINE",
+            "key": 450,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ISO",
+            "key": 170,
+            "remote": ""
+        },
+        {
+            "name": "KEY_J",
+            "key": 36,
+            "remote": ""
+        },
+        {
+            "name": "KEY_JOURNAL",
+            "key": 578,
+            "remote": ""
+        },
+        {
+            "name": "KEY_K",
+            "key": 37,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KATAKANA",
+            "key": 90,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KATAKANAHIRAGANA",
+            "key": 93,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBDILLUMDOWN",
+            "key": 229,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBDILLUMTOGGLE",
+            "key": 228,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBDILLUMUP",
+            "key": 230,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBDINPUTASSIST_ACCEPT",
+            "key": 612,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBDINPUTASSIST_CANCEL",
+            "key": 613,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBDINPUTASSIST_NEXT",
+            "key": 609,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBDINPUTASSIST_NEXTGROUP",
+            "key": 611,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBDINPUTASSIST_PREV",
+            "key": 608,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBDINPUTASSIST_PREVGROUP",
+            "key": 610,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KBD_LAYOUT_NEXT",
+            "key": 584,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KEYBOARD",
+            "key": 374,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP0",
+            "key": 82,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP1",
+            "key": 79,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP2",
+            "key": 80,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP3",
+            "key": 81,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP4",
+            "key": 75,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP5",
+            "key": 76,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP6",
+            "key": 77,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP7",
+            "key": 71,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP8",
+            "key": 72,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KP9",
+            "key": 73,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPASTERISK",
+            "key": 55,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPCOMMA",
+            "key": 121,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPDOT",
+            "key": 83,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPENTER",
+            "key": 96,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPEQUAL",
+            "key": 117,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPJPCOMMA",
+            "key": 95,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPLEFTPAREN",
+            "key": 179,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPMINUS",
+            "key": 74,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPPLUS",
+            "key": 78,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPPLUSMINUS",
+            "key": 118,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPRIGHTPAREN",
+            "key": 180,
+            "remote": ""
+        },
+        {
+            "name": "KEY_KPSLASH",
+            "key": 98,
+            "remote": ""
+        },
+        {
+            "name": "KEY_L",
+            "key": 38,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LANGUAGE",
+            "key": 368,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LAST",
+            "key": 405,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LEFT",
+            "key": 105,
+            "remote": "F061D827"
+        },
+        {
+            "name": "KEY_LEFTALT",
+            "key": 56,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LEFTBRACE",
+            "key": 26,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LEFTCTRL",
+            "key": 29,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LEFTMETA",
+            "key": 125,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LEFTSHIFT",
+            "key": 42,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LEFT_DOWN",
+            "key": 617,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LEFT_UP",
+            "key": 616,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LIGHTS_TOGGLE",
+            "key": 542,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LINEFEED",
+            "key": 101,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LIST",
+            "key": 395,
+            "remote": ""
+        },
+        {
+            "name": "KEY_LOGOFF",
+            "key": 433,
+            "remote": ""
+        },
+        {
+            "name": "KEY_M",
+            "key": 50,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MACRO",
+            "key": 112,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MAIL",
+            "key": 155,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MAX",
+            "key": 767,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MEDIA",
+            "key": 226,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MEDIA_REPEAT",
+            "key": 439,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MEDIA_TOP_MENU",
+            "key": 619,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MEMO",
+            "key": 396,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MENU",
+            "key": 139,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MESSENGER",
+            "key": 430,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MHP",
+            "key": 367,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MICMUTE",
+            "key": 248,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MINUS",
+            "key": 12,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MIN_INTERESTING",
+            "key": 113,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MODE",
+            "key": 373,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MOVE",
+            "key": 175,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MP3",
+            "key": 391,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MSDOS",
+            "key": 151,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MUHENKAN",
+            "key": 94,
+            "remote": ""
+        },
+        {
+            "name": "KEY_MUTE",
+            "key": 113,
+            "remote": ""
+        },
+        {
+            "name": "KEY_N",
+            "key": 49,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NEW",
+            "key": 181,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NEWS",
+            "key": 427,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NEXT",
+            "key": 407,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NEXTSONG",
+            "key": 163,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NEXT_FAVORITE",
+            "key": 624,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_0",
+            "key": 512,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_1",
+            "key": 513,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_11",
+            "key": 620,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_12",
+            "key": 621,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_2",
+            "key": 514,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_3",
+            "key": 515,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_4",
+            "key": 516,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_5",
+            "key": 517,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_6",
+            "key": 518,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_7",
+            "key": 519,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_8",
+            "key": 520,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_9",
+            "key": 521,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_A",
+            "key": 524,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_B",
+            "key": 525,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_C",
+            "key": 526,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_D",
+            "key": 527,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_POUND",
+            "key": 523,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMERIC_STAR",
+            "key": 522,
+            "remote": ""
+        },
+        {
+            "name": "KEY_NUMLOCK",
+            "key": 69,
+            "remote": ""
+        },
+        {
+            "name": "KEY_O",
+            "key": 24,
+            "remote": ""
+        },
+        {
+            "name": "KEY_OK",
+            "key": 352,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ONSCREEN_KEYBOARD",
+            "key": 632,
+            "remote": ""
+        },
+        {
+            "name": "KEY_OPEN",
+            "key": 134,
+            "remote": ""
+        },
+        {
+            "name": "KEY_OPTION",
+            "key": 357,
+            "remote": ""
+        },
+        {
+            "name": "KEY_P",
+            "key": 25,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PAGEDOWN",
+            "key": 109,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PAGEUP",
+            "key": 104,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PASTE",
+            "key": 135,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PAUSE",
+            "key": 119,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PAUSECD",
+            "key": 201,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PAUSE_RECORD",
+            "key": 626,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PC",
+            "key": 376,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PHONE",
+            "key": 169,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PLAY",
+            "key": 207,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PLAYCD",
+            "key": 200,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PLAYER",
+            "key": 387,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PLAYPAUSE",
+            "key": 164,
+            "remote": ""
+        },
+        {
+            "name": "KEY_POWER",
+            "key": 116,
+            "remote": ""
+        },
+        {
+            "name": "KEY_POWER2",
+            "key": 356,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PRESENTATION",
+            "key": 425,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PREVIOUS",
+            "key": 412,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PREVIOUSSONG",
+            "key": 165,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PRINT",
+            "key": 210,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PROG1",
+            "key": 148,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PROG2",
+            "key": 149,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PROG3",
+            "key": 202,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PROG4",
+            "key": 203,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PROGRAM",
+            "key": 362,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PROPS",
+            "key": 130,
+            "remote": ""
+        },
+        {
+            "name": "KEY_PVR",
+            "key": 366,
+            "remote": ""
+        },
+        {
+            "name": "KEY_Q",
+            "key": 16,
+            "remote": ""
+        },
+        {
+            "name": "KEY_QUESTION",
+            "key": 214,
+            "remote": ""
+        },
+        {
+            "name": "KEY_R",
+            "key": 19,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RADIO",
+            "key": 385,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RECORD",
+            "key": 167,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RED",
+            "key": 398,
+            "remote": ""
+        },
+        {
+            "name": "KEY_REDO",
+            "key": 182,
+            "remote": ""
+        },
+        {
+            "name": "KEY_REFRESH",
+            "key": 173,
+            "remote": ""
+        },
+        {
+            "name": "KEY_REPLY",
+            "key": 232,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RESERVED",
+            "key": 0,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RESTART",
+            "key": 408,
+            "remote": ""
+        },
+        {
+            "name": "KEY_REWIND",
+            "key": 168,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RFKILL",
+            "key": 247,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RIGHT",
+            "key": 106,
+            "remote": "F06138C7"
+        },
+        {
+            "name": "KEY_RIGHTALT",
+            "key": 100,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RIGHTBRACE",
+            "key": 27,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RIGHTCTRL",
+            "key": 97,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RIGHTMETA",
+            "key": 126,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RIGHTSHIFT",
+            "key": 54,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RIGHT_DOWN",
+            "key": 615,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RIGHT_UP",
+            "key": 614,
+            "remote": ""
+        },
+        {
+            "name": "KEY_RO",
+            "key": 89,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ROOT_MENU",
+            "key": 618,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ROTATE_DISPLAY",
+            "key": 153,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ROTATE_LOCK_TOGGLE",
+            "key": 561,
+            "remote": ""
+        },
+        {
+            "name": "KEY_S",
+            "key": 31,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SAT",
+            "key": 381,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SAT2",
+            "key": 382,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SAVE",
+            "key": 234,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SCALE",
+            "key": 120,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SCREEN",
+            "key": 375,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SCREENLOCK",
+            "key": 152,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SCREENSAVER",
+            "key": 581,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SCROLLDOWN",
+            "key": 178,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SCROLLLOCK",
+            "key": 70,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SCROLLUP",
+            "key": 177,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SEARCH",
+            "key": 217,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SELECT",
+            "key": 353,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SEMICOLON",
+            "key": 39,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SEND",
+            "key": 231,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SENDFILE",
+            "key": 145,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SETUP",
+            "key": 141,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SHUFFLE",
+            "key": 410,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SLASH",
+            "key": 53,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SLEEP",
+            "key": 142,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SLOW",
+            "key": 409,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SLOWREVERSE",
+            "key": 630,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SOUND",
+            "key": 213,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SPACE",
+            "key": 57,
+            "remote": ""
+        },
+        {
+            "name": "KEY_STOP",
+            "key": 128,
+            "remote": "F06124DB"
+        },
+        {
+            "name": "KEY_STOPCD",
+            "key": 166,
+            "remote": ""
+        },
+        {
+            "name": "KEY_STOP_RECORD",
+            "key": 625,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SUBTITLE",
+            "key": 370,
+            "remote": ""
+        },
+        {
+            "name": "KEY_SWITCHVIDEOMODE",
+            "key": 227,
+            "remote": ""
+        },
+        {
+            "name": "KEY_T",
+            "key": 20,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TAB",
+            "key": 15,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TEXT",
+            "key": 388,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TIME",
+            "key": 359,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TITLE",
+            "key": 369,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TOUCHPAD_OFF",
+            "key": 532,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TOUCHPAD_ON",
+            "key": 531,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TOUCHPAD_TOGGLE",
+            "key": 530,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TUNER",
+            "key": 386,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TV",
+            "key": 377,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TV2",
+            "key": 378,
+            "remote": ""
+        },
+        {
+            "name": "KEY_TWEN",
+            "key": 415,
+            "remote": ""
+        },
+        {
+            "name": "KEY_U",
+            "key": 22,
+            "remote": ""
+        },
+        {
+            "name": "KEY_UNDO",
+            "key": 131,
+            "remote": ""
+        },
+        {
+            "name": "KEY_UNKNOWN",
+            "key": 240,
+            "remote": ""
+        },
+        {
+            "name": "KEY_UNMUTE",
+            "key": 628,
+            "remote": ""
+        },
+        {
+            "name": "KEY_UP",
+            "key": 103,
+            "remote": "F061D02F"
+        },
+        {
+            "name": "KEY_UWB",
+            "key": 239,
+            "remote": ""
+        },
+        {
+            "name": "KEY_V",
+            "key": 47,
+            "remote": ""
+        },
+        {
+            "name": "KEY_VCR",
+            "key": 379,
+            "remote": ""
+        },
+        {
+            "name": "KEY_VCR2",
+            "key": 380,
+            "remote": ""
+        },
+        {
+            "name": "KEY_VIDEO",
+            "key": 393,
+            "remote": ""
+        },
+        {
+            "name": "KEY_VIDEO_NEXT",
+            "key": 241,
+            "remote": ""
+        },
+        {
+            "name": "KEY_VIDEO_PREV",
+            "key": 242,
+            "remote": ""
+        },
+        {
+            "name": "KEY_VOD",
+            "key": 627,
+            "remote": ""
+        },
+        {
+            "name": "KEY_VOLUMEDOWN",
+            "key": 114,
+            "remote": "F061708F"
+        },
+        {
+            "name": "KEY_VOLUMEUP",
+            "key": 115,
+            "remote": "F061B04F"
+        },
+        {
+            "name": "KEY_W",
+            "key": 17,
+            "remote": ""
+        },
+        {
+            "name": "KEY_WAKEUP",
+            "key": 143,
+            "remote": ""
+        },
+        {
+            "name": "KEY_WIMAX",
+            "key": 246,
+            "remote": ""
+        },
+        {
+            "name": "KEY_WLAN",
+            "key": 238,
+            "remote": ""
+        },
+        {
+            "name": "KEY_X",
+            "key": 45,
+            "remote": ""
+        },
+        {
+            "name": "KEY_Y",
+            "key": 21,
+            "remote": ""
+        },
+        {
+            "name": "KEY_YELLOW",
+            "key": 400,
+            "remote": ""
+        },
+        {
+            "name": "KEY_Z",
+            "key": 44,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ZOOM",
+            "key": 372,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ZOOMIN",
+            "key": 418,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ZOOMOUT",
+            "key": 419,
+            "remote": ""
+        },
+        {
+            "name": "KEY_ZOOMRESET",
+            "key": 420,
+            "remote": ""
+        }
+    ]
+}
