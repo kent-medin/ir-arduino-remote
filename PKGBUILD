@@ -14,7 +14,7 @@ source=(
 sha256sums=('SKIP')
 
 package() {
-  install -Dm644 $srcdir/ir-arduino-remote/service/ir-arduino-remote.service $pkgdir/lib/systemd/system/ir-arduino-remote.service
+  install -Dm644 $srcdir/ir-arduino-remote/service/ir-arduino-remote.service $pkgdir/usr/lib/systemd/system/ir-arduino-remote.service
   install -Dm644 $srcdir/ir-arduino-remote/service/keys.json $pkgdir/etc/ir-arduino-remote/keys.json
   install -Dm744 $srcdir/ir-arduino-remote/service/ir_remote_service.py $pkgdir/usr/bin/ir_remote_service.py
 }
