@@ -83,7 +83,7 @@ def main(port):
 
 
 if __name__ == "__main__":
-    port = "/dev/ttyUSB1"
+    port = "/dev/ttyUSB0"
 
     if len(sys.argv) > 1:
         port = sys.argv[1]
